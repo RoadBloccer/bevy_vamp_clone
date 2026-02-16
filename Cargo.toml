@@ -1,0 +1,10 @@
+[package]
+name = "vamp_clone"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bevy = "0.18"
+bevy_color = "0.18.0"
+rand = "0.8.0"
+
