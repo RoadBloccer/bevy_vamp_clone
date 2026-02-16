@@ -66,7 +66,7 @@ fn setup(mut commands: Commands) {
     commands.spawn((
         Text::new("Score: 0"),
         TextFont {
-            font_size: 30.0,
+            font_size: 28.0,
             font: default(),
             ..default()
         },
